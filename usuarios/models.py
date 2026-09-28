@@ -10,3 +10,6 @@ class Usuario(models.Model):
 
 
     # Modelo de usuarios
+
+
+    # Nueva funcionalidad
